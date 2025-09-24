@@ -27,5 +27,5 @@ Para base de datos, ya sea para guardar record, elecciones o la ruta que se sigu
 ### Framewoerk: 
 godot, enfocado en el 2D
 ### Arte/Diseño:
-Asepite para un diseño con pixeles
-Control de versioens: Git
+- Asepite para un diseño con pixeles
+- Control de versioens: Git
