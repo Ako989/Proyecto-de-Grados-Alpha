@@ -7,13 +7,13 @@ crear emociones, cubrir necesidades y demandas de los steakholders y sobre todo 
 ______________________________________________________________________________________________________________________________________________________________
 ## Requisitos funcionaes y no funcioanes
 ___________
-### funcionales:
+### Funcionales:
 - carga de dailogos/musica
 - registro interno: "karma"/"Ruta"
 - feedback: dependiendo de las acciones
 - nucleo: seran las elecciones, seguidas de causa/efecto y moral (Karma)
 
-### no funcionales: 
+### No funcionales: 
 - coherencia de tono y atmosfera que dependen del camino recorrido
 - responsividad: adaptar las mecanicas PvN para que la habilidad del jugador sea el factor critico
 - Narrativa: las acciones y reacciones del juego deben estar en coherencia con las elecciones tomadas
@@ -24,8 +24,8 @@ ________________________________________________________________________________
 ## Tecnologias utilizadas
 ### MySQL o JSON: 
 Para base de datos, ya sea para guardar record, elecciones o la ruta que se sigue, inventario, etc
-### framewoerk: 
+### Framewoerk: 
 godot, enfocado en el 2D
-### arte/diseño:
- asepite para un diseño con pixeles
+### Arte/Diseño:
+Asepite para un diseño con pixeles
 Control de versioens: Git
