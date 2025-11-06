@@ -29,3 +29,11 @@ godot, enfocado en el 2D
 ### Arte/Diseño:
 - Asepite para un diseño con pixeles
 - Control de versioens: Git
+
+
+
+
+
+<img width="6561" height="2026" alt="deepseek_mermaid_20251106_1b7a2b" src="https://github.com/user-attachments/assets/ef168156-288f-4844-949a-b4250b7b35f4" />
+
+
