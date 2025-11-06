@@ -1,4 +1,3 @@
-# Gestion final
 
 # Entrega final del proyecto de grados
 
@@ -39,3 +38,9 @@ godot, enfocado en el 2D
 
 
 <img width="6561" height="2026" alt="deepseek_mermaid_20251106_1b7a2b" src="https://github.com/user-attachments/assets/ef168156-288f-4844-949a-b4250b7b35f4" />
+
+
+# Diagrama ishikawa
+ 
+<img width="1528" alt="Diagrama Ishikawa" src="https://github.com/user-attachments/assets/42a7c85e-6a81-4085-9d8e-95a8046bef27" />
+ 
